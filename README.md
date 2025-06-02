@@ -10,22 +10,16 @@ Apoio na tomada de decisão estratégica e operacional.
 Filtragem e segmentação facilitada de dados.
 
 ## Funcionalidades
-✅ Visão geral de todos os eventos registrados
-✅ Filtros dinâmicos por:
-  • Data do evento
-  • Tipo de evento
-  • Localização
-  • Público-alvo
-  • Status (realizado, planejado, cancelado)
-✅ Gráficos e indicadores-chave:
-  • Total de eventos por período
-  • Receita e custos associados
-  • Taxa de ocupação / presença
-  • Comparativos entre diferentes categorias
-✅ Mapas geográficos para análise de localização
-✅ Tabelas detalhadas para consulta específica
+### Visão Geral  
+- Lista completa de eventos registrados.  
+- Filtros dinâmicos por:  
+  - **Data do evento**  
+  - **Tipo de evento**  
+  - **Localização**  
+  - **Público-alvo**  
+  - **Status** (realizado, planejado, cancelado).
 
 ## Público-alvo
-Equipe de planejamento de eventos
-Diretores e gestores
-Analistas financeiros e operacionais
+- Equipe de planejamento de eventos.  
+- Diretores e gestores.  
+- Analistas financeiros e operacionais. 
