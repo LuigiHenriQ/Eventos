@@ -1,4 +1,4 @@
-📊 Dashboard de Eventos - Power BI
+📊 #Dashboard de Eventos - Power BI
 ## Descrição
 Este arquivo contém uma dashboard desenvolvida para a gestão e análise de dados de uma empresa de eventos. A solução foi criada para centralizar, visualizar e filtrar informações essenciais para o planejamento, execução e avaliação de eventos.
 
