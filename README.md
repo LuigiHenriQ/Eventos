@@ -1,15 +1,15 @@
-📊 Dashboard de Eventos - Power BI
-Descrição
+#📊 Dashboard de Eventos - Power BI
+## Descrição
 Este arquivo contém uma dashboard desenvolvida para a gestão e análise de dados de uma empresa de eventos. A solução foi criada para centralizar, visualizar e filtrar informações essenciais para o planejamento, execução e avaliação de eventos.
 
-Objetivo
+## Objetivo
 Fornecer uma ferramenta visual e interativa que permita:
 Monitoramento de eventos realizados e planejados.
 Análise de desempenho por tipo de evento, localização, data, público e receita.
 Apoio na tomada de decisão estratégica e operacional.
 Filtragem e segmentação facilitada de dados.
 
-Funcionalidades
+## Funcionalidades
 ✅ Visão geral de todos os eventos registrados
 ✅ Filtros dinâmicos por:
   • Data do evento
@@ -25,7 +25,7 @@ Funcionalidades
 ✅ Mapas geográficos para análise de localização
 ✅ Tabelas detalhadas para consulta específica
 
-Público-alvo
+## Público-alvo
 Equipe de planejamento de eventos
 Diretores e gestores
 Analistas financeiros e operacionais
