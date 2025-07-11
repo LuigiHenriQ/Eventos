@@ -1,25 +1,48 @@
 # 📊 Dashboard de Eventos - Power BI
-## Descrição
-Este arquivo contém uma dashboard desenvolvida para a gestão e análise de dados de uma empresa de eventos. A solução foi criada para centralizar, visualizar e filtrar informações essenciais para o planejamento, execução e avaliação de eventos.
 
-## Objetivo
-Fornecer uma ferramenta visual e interativa que permita:
-Monitoramento de eventos realizados e planejados.
-Análise de desempenho por tipo de evento, localização, data, público e receita.
-Apoio na tomada de decisão estratégica e operacional.
-Filtragem e segmentação facilitada de dados.
+Este projeto apresenta uma análise interativa dos **eventos realizados pela organização**, utilizando o Power BI para visualização de dados, identificação de padrões e apoio à tomada de decisões estratégicas.
 
-## Funcionalidades
-### Visão Geral  
-- Lista completa de eventos registrados.  
-- Filtros dinâmicos por:  
-  - **Data do evento**  
-  - **Tipo de evento**  
-  - **Localização**  
-  - **Público-alvo**  
-  - **Status** (realizado, planejado, cancelado).
+## ✅ Objetivo
 
-## Público-alvo
-- Equipe de planejamento de eventos.  
-- Diretores e gestores.  
-- Analistas financeiros e operacionais. 
+Fornecer uma visão gerencial e operacional sobre os eventos realizados, permitindo:
+
+- Acompanhamento da **quantidade de eventos por período**;
+- Análise por **tipos de evento, status e responsável**;
+- Identificação dos **principais organizadores e públicos-alvo**;
+- Visualização da **linha do tempo dos eventos** e sua distribuição.
+
+## 🧩 Funcionalidades do Dashboard
+
+- **Visão geral** com KPIs principais: total de eventos, eventos concluídos, em andamento e cancelados;
+- **Filtros interativos**: por ano, tipo de evento, status, responsável e público-alvo;
+- **Gráficos de barras e linhas**: evolução dos eventos ao longo do tempo;
+- **Mapa** (caso ativado): para exibição geográfica dos eventos;
+- **Tabela detalhada** com todas as informações filtráveis.
+
+## 🗂️ Estrutura dos Dados
+
+A base de dados é composta por colunas como:
+
+- `Evento`: Nome do evento
+- `Data de Realização`
+- `Tipo de Evento`
+- `Status do Evento`
+- `Responsável`
+- `Público-Alvo`
+- `Departamento`
+- `Quantidade de Participantes`
+- `Localização` (se aplicável)
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Power BI Desktop**
+- **Power Query** (para transformação de dados)
+- **DAX** (para medidas e cálculos personalizados)
+
+## 📈 Indicadores Criados (DAX)
+
+- Total de Eventos
+- Eventos por Status
+- Eventos por Responsável
+- Eventos por Ano
+- Eventos por Público-Alvo
